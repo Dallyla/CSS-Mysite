@@ -79,13 +79,25 @@ p {
     line-height: 2;    
 }
 
-.computer-img {
+.frontend-img {
     width: 25%;
     float: left;
     margin-right: 30px;
 }
 
 .testing-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.backend-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.debugging-img {
     width: 25%;
     float: right;
     margin-left: 30px;
